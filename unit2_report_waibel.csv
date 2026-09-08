@@ -1,0 +1,561 @@
+full_name,team,pts
+Shai Gilgeous-Alexander,Oklahoma City Thunder,2484.0
+Anthony Edwards,Minnesota Timberwolves,2177.0
+Nikola Jokić,Denver Nuggets,2071.0
+Giannis Antetokounmpo,Milwaukee Bucks,2036.0
+Jayson Tatum,Boston Celtics,1932.0
+Devin Booker,Phoenix Suns,1923.0
+Trae Young,Atlanta Hawks,1841.0
+Tyler Herro,Miami Heat,1840.0
+Cade Cunningham,Detroit Pistons,1830.0
+James Harden,Los Angeles Clippers,1802.0
+Karl-Anthony Towns,New York Knicks,1759.0
+Zach LaVine,Sacramento Kings,1724.0
+Jalen Green,Houston Rockets,1723.0
+Stephen Curry,Golden State Warriors,1718.0
+LeBron James,Los Angeles Lakers,1710.0
+DeMar DeRozan,Sacramento Kings,1710.0
+Donovan Mitchell,Cleveland Cavaliers,1701.0
+Jalen Brunson,New York Knicks,1690.0
+Kevin Durant,Phoenix Suns,1647.0
+Jaren Jackson Jr.,Memphis Grizzlies,1641.0
+Pascal Siakam,Indiana Pacers,1578.0
+Darius Garland,Cleveland Cavaliers,1544.0
+Coby White,Chicago Bulls,1509.0
+Jalen Williams,Oklahoma City Thunder,1490.0
+Austin Reaves,Los Angeles Lakers,1475.0
+De'Aaron Fox,San Antonio Spurs,1459.0
+Alperen Sengun,Houston Rockets,1451.0
+Franz Wagner,Orlando Magic,1449.0
+Damian Lillard,Milwaukee Bucks,1447.0
+Mikal Bridges,New York Knicks,1444.0
+Jamal Murray,Denver Nuggets,1436.0
+Bam Adebayo,Miami Heat,1410.0
+Luka Dončić,Los Angeles Lakers,1408.0
+Jaylen Brown,Boston Celtics,1398.0
+Michael Porter Jr.,Denver Nuggets,1398.0
+Jordan Poole,Washington Wizards,1391.0
+Tyrese Maxey,Philadelphia 76ers,1369.0
+Tyrese Haliburton,Indiana Pacers,1359.0
+Nikola Vučević,Chicago Bulls,1349.0
+Anfernee Simons,Portland Trail Blazers,1348.0
+Ivica Zubac,Los Angeles Clippers,1340.0
+Domantas Sabonis,Sacramento Kings,1337.0
+Malik Beasley,Detroit Pistons,1336.0
+Shaedon Sharpe,Portland Trail Blazers,1335.0
+OG Anunoby,New York Knicks,1332.0
+Desmond Bane,Orlando Magic,1327.0
+Evan Mobley,Cleveland Cavaliers,1316.0
+Norman Powell,Los Angeles Clippers,1306.0
+Miles Bridges,Charlotte Hornets,1300.0
+Julius Randle,Minnesota Timberwolves,1288.0
+Anthony Davis,Dallas Mavericks,1261.0
+Scottie Barnes,Toronto Raptors,1252.0
+Derrick White,Boston Celtics,1248.0
+Kyrie Irving,Dallas Mavericks,1234.0
+RJ Barrett,Toronto Raptors,1223.0
+Deni Avdija,Portland Trail Blazers,1219.0
+Christian Braun,Denver Nuggets,1218.0
+Paolo Banchero,Orlando Magic,1191.0
+Stephon Castle,San Antonio Spurs,1190.0
+LaMelo Ball,Charlotte Hornets,1184.0
+CJ McCollum,New Orleans Pelicans,1183.0
+Collin Sexton,Utah Jazz,1159.0
+Ja Morant,Memphis Grizzlies,1159.0
+Bennedict Mathurin,Indiana Pacers,1156.0
+Payton Pritchard,Boston Celtics,1144.0
+Naz Reid,Minnesota Timberwolves,1138.0
+Keyonte George,Utah Jazz,1125.0
+Trey Murphy III,New Orleans Pelicans,1124.0
+Myles Turner,Indiana Pacers,1120.0
+Malik Monk,Sacramento Kings,1117.0
+Victor Wembanyama,San Antonio Spurs,1116.0
+Jarrett Allen,Cleveland Cavaliers,1103.0
+Quentin Grimes,Philadelphia 76ers,1092.0
+De'Andre Hunter,Cleveland Cavaliers,1088.0
+Andrew Wiggins,Miami Heat,1078.0
+Dyson Daniels,Atlanta Hawks,1073.0
+Cameron Johnson,Brooklyn Nets,1070.0
+Dillon Brooks,Houston Rockets,1053.0
+Josh Hart,New York Knicks,1051.0
+Brook Lopez,Milwaukee Bucks,1041.0
+Devin Vassell,San Antonio Spurs,1041.0
+Josh Giddey,Chicago Bulls,1022.0
+Harrison Barnes,San Antonio Spurs,1011.0
+Klay Thompson,Dallas Mavericks,1005.0
+Tobias Harris,Detroit Pistons,1002.0
+Jaden McDaniels,Minnesota Timberwolves,1000.0
+Russell Westbrook,Denver Nuggets,994.0
+Onyeka Okongwu,Atlanta Hawks,988.0
+Dennis Schröder,Detroit Pistons,980.0
+Keldon Johnson,San Antonio Spurs,979.0
+Amen Thompson,Houston Rockets,970.0
+Jimmy Butler III,Golden State Warriors,964.0
+Kyle Kuzma,Milwaukee Bucks,964.0
+Keegan Murray,Sacramento Kings,942.0
+Zaccharie Risacher,Atlanta Hawks,942.0
+Jalen Duren,Detroit Pistons,918.0
+Naji Marshall,Dallas Mavericks,914.0
+Aaron Wiggins,Oklahoma City Thunder,914.0
+Buddy Hield,Golden State Warriors,912.0
+Kelly Oubre Jr.,Philadelphia 76ers,906.0
+Bradley Beal,Phoenix Suns,902.0
+Lauri Markkanen,Utah Jazz,892.0
+Toumani Camara,Portland Trail Blazers,882.0
+Ty Jerome,Cleveland Cavaliers,878.0
+Spencer Dinwiddie,Dallas Mavericks,872.0
+Alex Sarr,Washington Wizards,869.0
+Rudy Gobert,Minnesota Timberwolves,866.0
+Tim Hardaway Jr.,Detroit Pistons,844.0
+Fred VanVleet,Houston Rockets,844.0
+Jonas Valanciunas,Sacramento Kings,843.0
+Keon Johnson,Brooklyn Nets,839.0
+Scoot Henderson,Portland Trail Blazers,837.0
+P.J. Washington,Dallas Mavericks,836.0
+Obi Toppin,Indiana Pacers,833.0
+Tyus Jones,Phoenix Suns,829.0
+Jakob Poeltl,Toronto Raptors,824.0
+Gary Trent Jr.,Milwaukee Bucks,824.0
+Jaylen Wells,Memphis Grizzlies,823.0
+Kristaps Porziņģis,Boston Celtics,818.0
+Duncan Robinson,Miami Heat,817.0
+Julian Champagnie,San Antonio Spurs,815.0
+Santi Aldama,Memphis Grizzlies,811.0
+Bub Carrington,Washington Wizards,807.0
+Kawhi Leonard,Los Angeles Clippers,796.0
+Georges Niang,Atlanta Hawks,784.0
+Derrick Jones Jr.,Los Angeles Clippers,781.0
+Scotty Pippen Jr.,Memphis Grizzlies,779.0
+Gradey Dick,Toronto Raptors,777.0
+Caris LeVert,Atlanta Hawks,776.0
+Rui Hachimura,Los Angeles Lakers,775.0
+Nickeil Alexander-Walker,Minnesota Timberwolves,773.0
+Brice Sensabaugh,Utah Jazz,772.0
+Kevin Porter Jr.,Milwaukee Bucks,771.0
+Guerschon Yabusele,Philadelphia 76ers,768.0
+John Collins,Utah Jazz,758.0
+Isaiah Joe,Oklahoma City Thunder,756.0
+Jalen Wilson,Brooklyn Nets,749.0
+Max Christie,Dallas Mavericks,749.0
+Aaron Gordon,Denver Nuggets,748.0
+Brandin Podziemski,Golden State Warriors,747.0
+Zion Williamson,New Orleans Pelicans,737.0
+Anthony Black,Orlando Magic,736.0
+D'Angelo Russell,Brooklyn Nets,732.0
+Bilal Coulibaly,Washington Wizards,727.0
+Nic Claxton,Brooklyn Nets,724.0
+Moses Moody,Golden State Warriors,724.0
+Chris Paul,San Antonio Spurs,723.0
+Donte DiVincenzo,Minnesota Timberwolves,723.0
+T.J. McConnell,Indiana Pacers,720.0
+Luguentz Dort,Oklahoma City Thunder,719.0
+Jonathan Kuminga,Golden State Warriors,719.0
+Dalton Knecht,Los Angeles Lakers,706.0
+Corey Kispert,Washington Wizards,705.0
+Daniel Gafford,Dallas Mavericks,701.0
+Jabari Smith Jr.,Houston Rockets,698.0
+Amir Coffey,Los Angeles Clippers,696.0
+Kyle Filipowski,Utah Jazz,690.0
+Matas Buzelis,Chicago Bulls,688.0
+Jrue Holiday,Boston Celtics,686.0
+Tari Eason,Houston Rockets,686.0
+Kevin Huerter,Chicago Bulls,681.0
+Bobby Portis Jr.,Milwaukee Bucks,680.0
+Royce O'Neale,Phoenix Suns,680.0
+Grayson Allen,Phoenix Suns,680.0
+Jalen Johnson,Atlanta Hawks,680.0
+Terry Rozier,Miami Heat,679.0
+Jerami Grant,Portland Trail Blazers,677.0
+Kentavious Caldwell-Pope,Memphis Grizzlies,673.0
+Mark Williams,Charlotte Hornets,671.0
+Ochai Agbaji,Toronto Raptors,667.0
+Keon Ellis,Sacramento Kings,666.0
+Paul George,Philadelphia 76ers,665.0
+Yves Missi,New Orleans Pelicans,665.0
+Taurean Prince,Milwaukee Bucks,656.0
+Andrew Nembhard,Indiana Pacers,653.0
+Walker Kessler,Utah Jazz,641.0
+Isaiah Hartenstein,Oklahoma City Thunder,637.0
+Ziaire Williams,Brooklyn Nets,632.0
+Cole Anthony,Memphis Grizzlies,630.0
+Wendell Carter Jr.,Orlando Magic,618.0
+Jeremy Sochan,San Antonio Spurs,617.0
+Isaiah Collier,Utah Jazz,615.0
+Draymond Green,Golden State Warriors,613.0
+Miles McBride,New York Knicks,611.0
+Zach Edey,Memphis Grizzlies,610.0
+Sam Hauser,Boston Celtics,605.0
+Jordan Hawkins,New Orleans Pelicans,604.0
+Jordan Clarkson,Utah Jazz,600.0
+Cam Thomas,Brooklyn Nets,599.0
+Kel'el Ware,Miami Heat,595.0
+Ausar Thompson,Detroit Pistons,594.0
+Nick Smith Jr.,Charlotte Hornets,591.0
+Kyshawn George,Washington Wizards,590.0
+Davion Mitchell,Miami Heat,588.0
+Julian Strawther,Denver Nuggets,588.0
+Bogdan Bogdanović,Los Angeles Clippers,583.0
+Mike Conley,Minnesota Timberwolves,582.0
+Jose Alvarado,New Orleans Pelicans,579.0
+Luke Kennard,Memphis Grizzlies,576.0
+Deandre Ayton,Portland Trail Blazers,576.0
+Johnny Juzang,Utah Jazz,571.0
+Jaime Jaquez Jr.,Miami Heat,570.0
+Brandon Miller,Charlotte Hornets,568.0
+Cason Wallace,Oklahoma City Thunder,568.0
+Jalen Suggs,Orlando Magic,567.0
+Patrick Williams,Chicago Bulls,566.0
+Ayo Dosunmu,Chicago Bulls,566.0
+Immanuel Quickley,Toronto Raptors,564.0
+Dalano Banton,Portland Trail Blazers,559.0
+Peyton Watson,Denver Nuggets,551.0
+Dorian Finney-Smith,Los Angeles Lakers,549.0
+Justin Champagnie,Washington Wizards,544.0
+Dejounte Murray,New Orleans Pelicans,542.0
+Aaron Nesmith,Indiana Pacers,541.0
+Jared Butler,Philadelphia 76ers,541.0
+AJ Green,Milwaukee Bucks,541.0
+Al Horford,Boston Celtics,538.0
+Brandon Clarke,Memphis Grizzlies,534.0
+Tristan da Silva,Orlando Magic,533.0
+Jamal Shead,Toronto Raptors,533.0
+Ricky Council IV,Philadelphia 76ers,532.0
+Nick Richards,Phoenix Suns,529.0
+Jaden Ivey,Detroit Pistons,528.0
+Jalen Smith,Chicago Bulls,524.0
+Tyrese Martin,Brooklyn Nets,523.0
+Ronald Holland II,Detroit Pistons,522.0
+Terance Mann,Atlanta Hawks,517.0
+Ryan Dunn,Phoenix Suns,511.0
+Sam Merrill,Cleveland Cavaliers,509.0
+Josh Green,Charlotte Hornets,506.0
+Chris Boucher,Toronto Raptors,502.0
+Goga Bitadze,Orlando Magic,502.0
+Cameron Payne,New York Knicks,500.0
+Jaden Hardy,Dallas Mavericks,496.0
+Nikola Jović,Miami Heat,494.0
+Clint Capela,Atlanta Hawks,488.0
+Chet Holmgren,Oklahoma City Thunder,479.0
+Haywood Highsmith,Miami Heat,478.0
+Cam Whitmore,Houston Rockets,477.0
+Kris Dunn,Los Angeles Clippers,474.0
+Max Strus,Cleveland Cavaliers,471.0
+Jarace Walker,Indiana Pacers,461.0
+Gabe Vincent,Los Angeles Lakers,460.0
+Jake LaRavia,Sacramento Kings,458.0
+Jusuf Nurkić,Charlotte Hornets,453.0
+Joel Embiid,Philadelphia 76ers,452.0
+Trey Lyles,Sacramento Kings,451.0
+Trendon Watford,Brooklyn Nets,450.0
+Ja'Kobe Walter,Toronto Raptors,449.0
+Brandon Boston,New Orleans Pelicans,448.0
+Simone Fontecchio,Detroit Pistons,446.0
+Justin Edwards,Philadelphia 76ers,445.0
+Seth Curry,Charlotte Hornets,444.0
+Luke Kornet,Boston Celtics,441.0
+Khris Middleton,Washington Wizards,440.0
+Jay Huff,Memphis Grizzlies,439.0
+Kenrich Williams,Oklahoma City Thunder,436.0
+Donovan Clingan,Portland Trail Blazers,436.0
+Isaiah Stewart,Detroit Pistons,435.0
+Thomas Bryant,Indiana Pacers,429.0
+Noah Clowney,Brooklyn Nets,420.0
+Jamison Battle,Toronto Raptors,419.0
+Jeremiah Robinson-Earl,New Orleans Pelicans,418.0
+Vít Krejčí,Atlanta Hawks,412.0
+Zach Collins,Chicago Bulls,407.0
+Trayce Jackson-Davis,Golden State Warriors,407.0
+Moussa Diabaté,Charlotte Hornets,403.0
+Brandon Ingram,Toronto Raptors,400.0
+Gary Payton II,Golden State Warriors,400.0
+Day'Ron Sharpe,Brooklyn Nets,397.0
+Jonathan Mogbo,Toronto Raptors,389.0
+Moritz Wagner,Orlando Magic,386.0
+Sandro Mamukelashvili,San Antonio Spurs,385.0
+Kelly Olynyk,New Orleans Pelicans,384.0
+Jaxson Hayes,Los Angeles Lakers,383.0
+Alex Caruso,Oklahoma City Thunder,382.0
+Jonathan Isaac,Orlando Magic,380.0
+Talen Horton-Tucker,Chicago Bulls,379.0
+Precious Achiuwa,New York Knicks,379.0
+Marcus Sasser,Detroit Pistons,375.0
+Julian Phillips,Chicago Bulls,366.0
+Cody Martin,Phoenix Suns,358.0
+Kyle Anderson,Miami Heat,357.0
+Alec Burks,Miami Heat,356.0
+Caleb Martin,Dallas Mavericks,356.0
+Garrison Mathews,Atlanta Hawks,353.0
+Tidjane Salaün,Charlotte Hornets,353.0
+Jared McCain,Philadelphia 76ers,352.0
+Ryan Rollins,Milwaukee Bucks,349.0
+Javonte Green,Cleveland Cavaliers,347.0
+Kevon Looney,Golden State Warriors,344.0
+Bruce Brown,New Orleans Pelicans,340.0
+Aaron Holiday,Houston Rockets,340.0
+Quinten Post,Golden State Warriors,340.0
+Isaac Okoro,Cleveland Cavaliers,337.0
+Adem Bona,Philadelphia 76ers,337.0
+Svi Mykhailiuk,Utah Jazz,334.0
+Mason Plumlee,Phoenix Suns,333.0
+Ben Sheppard,Indiana Pacers,332.0
+Tre Jones,Chicago Bulls,330.0
+Tristan Vukcevic,Washington Wizards,330.0
+Dalen Terry,Chicago Bulls,326.0
+Karlo Matković,New Orleans Pelicans,325.0
+Dean Wade,Cleveland Cavaliers,320.0
+Shake Milton,Los Angeles Lakers,315.0
+DaQuan Jeffries,Charlotte Hornets,315.0
+Dereck Lively II,Dallas Mavericks,314.0
+Nicolas Batum,Los Angeles Clippers,313.0
+Jabari Walker,Portland Trail Blazers,313.0
+Neemias Queta,Boston Celtics,310.0
+Marcus Smart,Washington Wizards,305.0
+Malcolm Brogdon,Washington Wizards,305.0
+Antonio Reeves,New Orleans Pelicans,305.0
+Orlando Robinson,Toronto Raptors,303.0
+Andre Drummond,Philadelphia 76ers,293.0
+Kris Murray,Portland Trail Blazers,287.0
+Landry Shamet,New York Knicks,286.0
+Jeff Dowtin Jr.,Philadelphia 76ers,285.0
+Josh Okogie,Charlotte Hornets,283.0
+KJ Simpson,Charlotte Hornets,282.0
+Drew Eubanks,Los Angeles Clippers,280.0
+Jaylin Williams,Oklahoma City Thunder,278.0
+Brandon Williams,Dallas Mavericks,275.0
+KJ Martin,Utah Jazz,274.0
+Vasilije Micic,Phoenix Suns,269.0
+Lonzo Ball,Chicago Bulls,267.0
+Jett Howard,Orlando Magic,267.0
+Tosan Evbuomwan,Brooklyn Nets,267.0
+Eric Gordon,Philadelphia 76ers,266.0
+Ben Simmons,Los Angeles Clippers,256.0
+Lindy Waters III,Detroit Pistons,256.0
+Oso Ighodaro,Phoenix Suns,255.0
+Pelle Larsson,Miami Heat,251.0
+Lonnie Walker IV,Philadelphia 76ers,247.0
+Bol Bol,Phoenix Suns,244.0
+Caleb Houstan,Orlando Magic,239.0
+A.J. Lawson,Toronto Raptors,236.0
+Malaki Branham,San Antonio Spurs,235.0
+Ajay Mitchell,Oklahoma City Thunder,234.0
+Monte Morris,Phoenix Suns,233.0
+Richaun Holmes,Washington Wizards,230.0
+Andre Jackson Jr.,Milwaukee Bucks,230.0
+Cody Williams,Utah Jazz,230.0
+Reed Sheppard,Houston Rockets,229.0
+Gui Santos,Golden State Warriors,227.0
+Steven Adams,Houston Rockets,225.0
+AJ Johnson,Washington Wizards,220.0
+Rob Dillingham,Minnesota Timberwolves,219.0
+Blake Wesley,San Antonio Spurs,217.0
+Pat Connaughton,Milwaukee Bucks,216.0
+DeAndre Jordan,Denver Nuggets,209.0
+GG Jackson,Memphis Grizzlies,209.0
+Herbert Jones,New Orleans Pelicans,205.0
+Larry Nance Jr.,Atlanta Hawks,203.0
+Olivier-Maxence Prosper,Dallas Mavericks,201.0
+Jock Landale,Houston Rockets,200.0
+Jalen Pickett,Denver Nuggets,200.0
+Kai Jones,Dallas Mavericks,198.0
+Mouhamed Gueye,Atlanta Hawks,197.0
+Jamal Cain,New Orleans Pelicans,196.0
+Collin Gillespie,Phoenix Suns,194.0
+Duop Reath,Portland Trail Blazers,194.0
+Jae'Sean Tate,Houston Rockets,188.0
+Craig Porter Jr.,Cleveland Cavaliers,188.0
+Zeke Nnaji,Denver Nuggets,184.0
+Paul Reed,Detroit Pistons,184.0
+Tre Mann,Charlotte Hornets,183.0
+Vince Williams Jr.,Memphis Grizzlies,179.0
+Cory Joseph,Orlando Magic,177.0
+Dante Exum,Dallas Mavericks,174.0
+Jeff Green,Houston Rockets,172.0
+Kessler Edwards,Dallas Mavericks,168.0
+Keaton Wallace,Atlanta Hawks,168.0
+Jaylon Tyson,Cleveland Cavaliers,167.0
+Grant Williams,Charlotte Hornets,166.0
+Jaylen Clark,Minnesota Timberwolves,163.0
+Daniel Theis,New Orleans Pelicans,162.0
+Micah Potter,Utah Jazz,162.0
+Quenton Jackson,Indiana Pacers,162.0
+Jordan Goodwin,Los Angeles Lakers,161.0
+Charles Bassey,San Antonio Spurs,157.0
+Colby Jones,Washington Wizards,157.0
+Rayan Rupert,Portland Trail Blazers,155.0
+Jevon Carter,Chicago Bulls,153.0
+David Roddy,Houston Rockets,153.0
+Trevelin Queen,Orlando Magic,152.0
+Jordan Miller,Los Angeles Clippers,152.0
+Wendell Moore Jr.,Charlotte Hornets,150.0
+Bones Hyland,Minnesota Timberwolves,149.0
+Dominick Barlow,Atlanta Hawks,148.0
+Doug McDermott,Sacramento Kings,147.0
+Jarred Vanderbilt,Los Angeles Lakers,147.0
+Gary Harris,Orlando Magic,145.0
+Bismack Biyombo,San Antonio Spurs,144.0
+Ousmane Dieng,Oklahoma City Thunder,142.0
+Keion Brooks Jr.,New Orleans Pelicans,142.0
+Kyle Lowry,Philadelphia 76ers,138.0
+Mo Bamba,New Orleans Pelicans,138.0
+Terrence Shannon Jr,Minnesota Timberwolves,138.0
+Luka Garza,Minnesota Timberwolves,138.0
+Devin Carter,Sacramento Kings,138.0
+Reggie Jackson,Philadelphia 76ers,136.0
+Marvin Bagley III,Memphis Grizzlies,136.0
+Dillon Jones,Oklahoma City Thunder,135.0
+Hunter Tyson,Denver Nuggets,134.0
+Isaac Jones,Sacramento Kings,134.0
+Anthony Gill,Washington Wizards,129.0
+Delon Wright,New York Knicks,125.0
+Colin Castleton,Toronto Raptors,123.0
+Kevin Love,Miami Heat,122.0
+Branden Carlson,Oklahoma City Thunder,122.0
+Isaiah Wong,Charlotte Hornets,120.0
+Josh Minott,Minnesota Timberwolves,119.0
+Jared Rhoden,Toronto Raptors,118.0
+Robert Williams III,Portland Trail Blazers,116.0
+Maxwell Lewis,Brooklyn Nets,116.0
+Dwight Powell,Dallas Mavericks,114.0
+Dariq Whitehead,Brooklyn Nets,114.0
+Baylor Scheierman,Boston Celtics,113.0
+Matisse Thybulle,Portland Trail Blazers,112.0
+John Konchar,Memphis Grizzlies,112.0
+Patty Mills,Los Angeles Clippers,111.0
+Jaden Springer,Utah Jazz,109.0
+Drew Timme,Brooklyn Nets,109.0
+Damion Baugh,Charlotte Hornets,109.0
+Torrey Craig,Boston Celtics,108.0
+Taj Gibson,Charlotte Hornets,107.0
+Oscar Tshiebwe,Utah Jazz,107.0
+Jalen Hood-Schifino,Philadelphia 76ers,106.0
+Cam Spencer,Memphis Grizzlies,106.0
+Cam Reddish,Los Angeles Lakers,105.0
+Maxi Kleber,Los Angeles Lakers,103.0
+Johnny Furphy,Indiana Pacers,103.0
+Jordan McLaughlin,San Antonio Spurs,98.0
+Pat Spencer,Golden State Warriors,98.0
+Jericho Sims,Milwaukee Bucks,98.0
+Trey Jemison III,Los Angeles Lakers,95.0
+Reece Beekman,Brooklyn Nets,93.0
+Christian Koloko,Los Angeles Lakers,90.0
+Mitchell Robinson,New York Knicks,87.0
+Dru Smith,Miami Heat,87.0
+Lester Quinones,New Orleans Pelicans,86.0
+Elfrid Payton,New Orleans Pelicans,85.0
+Damion Lee,Phoenix Suns,83.0
+Jordan Walsh,Boston Celtics,82.0
+Tyler Kolek,New York Knicks,81.0
+Johnny Davis,Washington Wizards,80.0
+MarJon Beauchamp,New York Knicks,79.0
+Jaylen Martin,Washington Wizards,78.0
+Kobe Brown,Los Angeles Clippers,77.0
+Moses Brown,Dallas Mavericks,76.0
+Alex Reese,Philadelphia 76ers,76.0
+Alex Len,Los Angeles Lakers,74.0
+Lamar Stevens,Memphis Grizzlies,74.0
+JT Thor,Washington Wizards,71.0
+Tristan Thompson,Cleveland Cavaliers,69.0
+Jaylen Nowell,Washington Wizards,67.0
+Marcus Bagley,Philadelphia 76ers,67.0
+Tyler Smith,Milwaukee Bucks,67.0
+Nate Williams,Houston Rockets,65.0
+Adam Flagler,Oklahoma City Thunder,65.0
+De'Anthony Melton,Brooklyn Nets,62.0
+Bronny James,Los Angeles Lakers,62.0
+Markelle Fultz,Sacramento Kings,61.0
+Tony Bradley,Indiana Pacers,61.0
+Cole Swider,Indiana Pacers,59.0
+Bruno Fernando,Toronto Raptors,58.0
+Markieff Morris,Los Angeles Lakers,56.0
+Dario Saric,Denver Nuggets,56.0
+Tyson Etienne,Brooklyn Nets,55.0
+Killian Hayes,Brooklyn Nets,54.0
+Drew Peterson,Boston Celtics,54.0
+Garrett Temple,Toronto Raptors,53.0
+Chuma Okeke,Cleveland Cavaliers,53.0
+Patrick Baldwin Jr.,Los Angeles Clippers,53.0
+Kobe Bufkin,Atlanta Hawks,53.0
+Oshae Brissett,Philadelphia 76ers,52.0
+Ariel Hukporti,New York Knicks,48.0
+Kevin Knox II,Golden State Warriors,46.0
+Enrique Freeman,Indiana Pacers,46.0
+Daeqwon Plowden,Atlanta Hawks,43.0
+Keshad Johnson,Miami Heat,43.0
+Jaylen Sims,Charlotte Hornets,42.0
+Pete Nance,Milwaukee Bucks,38.0
+Emoni Bates,Cleveland Cavaliers,37.0
+Chris Duarte,Chicago Bulls,36.0
+Nae'Qwan Tomlin,Cleveland Cavaliers,36.0
+Alex Ducas,Oklahoma City Thunder,36.0
+Yuki Kawamura,Memphis Grizzlies,36.0
+Isaiah Jackson,Indiana Pacers,35.0
+TyTy Washington Jr.,Phoenix Suns,35.0
+Xavier Tillman,Boston Celtics,34.0
+Kylor Kelley,Los Angeles Lakers,34.0
+JD Davison,Boston Celtics,33.0
+PJ Hall,Denver Nuggets,33.0
+Josh Richardson,Miami Heat,32.0
+Sidy Cissoko,Portland Trail Blazers,32.0
+Trey Alexander,Denver Nuggets,32.0
+Elijah Harkless,Utah Jazz,32.0
+Chris Livingston,Milwaukee Bucks,30.0
+Pacôme Dadiet,New York Knicks,30.0
+RayJ Dennis,Indiana Pacers,30.0
+Matt Ryan,New Orleans Pelicans,28.0
+Josh Christopher,Miami Heat,28.0
+Marcus Garrett,Charlotte Hornets,28.0
+Spencer Jones,Denver Nuggets,26.0
+Vlatko Čančar,Denver Nuggets,24.0
+Jazian Gortman,Dallas Mavericks,24.0
+N'Faly Dante,Houston Rockets,24.0
+Jae Crowder,Sacramento Kings,23.0
+Mason Jones,Sacramento Kings,23.0
+Jacob Toppin,Atlanta Hawks,23.0
+Jackson Rowe,Golden State Warriors,22.0
+E.J. Liddell,Chicago Bulls,21.0
+Leonard Miller,Minnesota Timberwolves,20.0
+Justin Minaya,Portland Trail Blazers,18.0
+Cam Christie,Los Angeles Clippers,18.0
+Jamaree Bouyea,Milwaukee Bucks,17.0
+Malachi Flynn,San Antonio Spurs,16.0
+David Duke Jr.,San Antonio Spurs,16.0
+Joe Ingles,Minnesota Timberwolves,15.0
+Stanley Umude,Milwaukee Bucks,15.0
+Bobi Klintman,Detroit Pistons,15.0
+Jack McVeigh,Houston Rockets,14.0
+Taylor Hendricks,Utah Jazz,14.0
+Armel Traore,Los Angeles Lakers,14.0
+Tolu Smith,Detroit Pistons,14.0
+Bryce McGowens,Portland Trail Blazers,13.0
+Isaiah Crawford,Sacramento Kings,13.0
+Luke Travers,Cleveland Cavaliers,12.0
+Trentyn Flowers,Los Angeles Clippers,11.0
+Jahmir Young,Chicago Bulls,11.0
+Emanuel Miller,Chicago Bulls,10.0
+P.J. Tucker,New York Knicks,9.0
+Jalen Bridges,Phoenix Suns,9.0
+Liam Robbins,Milwaukee Bucks,9.0
+James Johnson,Indiana Pacers,8.0
+Phillip Wheeler,Philadelphia 76ers,8.0
+Adama Sanogo,Chicago Bulls,8.0
+Anton Watson,New York Knicks,8.0
+PJ Dozier,Minnesota Timberwolves,7.0
+Miles Norris,Boston Celtics,7.0
+Daniss Jenkins,Detroit Pistons,7.0
+James Wiseman,Indiana Pacers,6.0
+Isaiah Mobley,Philadelphia 76ers,6.0
+Taze Moore,Portland Trail Blazers,6.0
+Kevin McCullar Jr.,New York Knicks,6.0
+Skal Labissiere,Sacramento Kings,5.0
+Alondes Williams,Los Angeles Clippers,5.0
+Ulrich Chomche,Toronto Raptors,5.0
+Harrison Ingram,San Antonio Spurs,4.0
+Ron Harper Jr.,Detroit Pistons,4.0
+Braxton Key,Golden State Warriors,3.0
+D.J. Carton,Toronto Raptors,3.0
+Tristen Newton,Minnesota Timberwolves,3.0
+Cui Cui,Brooklyn Nets,3.0
+Quincy Olivari,Los Angeles Lakers,3.0
+Yuri Collins,Golden State Warriors,2.0
+Malevy Leons,Oklahoma City Thunder,2.0
+Daishen Nix,Minnesota Timberwolves,1.0
